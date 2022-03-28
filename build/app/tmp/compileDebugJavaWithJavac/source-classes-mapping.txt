@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/nicolasdebole/peliculas/BuildConfig.java
+ com.nicolasdebole.peliculas.BuildConfig
